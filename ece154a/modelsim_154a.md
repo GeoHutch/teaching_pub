@@ -14,7 +14,7 @@ You'll need a few things set up on your machine to get connected to a working en
   * `Remote Desktop` by Microsoft is default-installed on Windows, and can be installed on Mac
   * `xfreerdp` is reccomended by cluster admins for use on Linux (consider `remmina` if you want a more advanced graphical environment)
 * The client for campus' Pulse VPN: [Downloads](https://www.it.ucsb.edu/pulse-secure-campus-vpn/get-connected-vpn)
-* A UCSB account configured with Duo MFA (Note that this is different than Google MFA on your UCSB account): [Self-service](https://duo-mgmt.identity.ucsb.edu/)  [1]
+* A UCSB account configured with Duo MFA (Note that this is different than Google MFA on your UCSB account): [Self-service](https://duo-mgmt.identity.ucsb.edu/)
 * A UCSB CoE account: [Self-service](https://ucsb-engr.atlassian.net/wiki/spaces/EPK/pages/575373516/New+UCSB+Community+Member+Information)
 
 ## Connect to campus
