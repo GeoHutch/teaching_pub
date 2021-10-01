@@ -37,7 +37,7 @@ Thus, it may be helpful to run `mkdir -p ece154a/lab1` in the shell to make a wo
 
 ## Your First Module
 The half-adder is one of the simplest digital circuits that still does some interesting logic.
-For the 2 inputs, you can probably verify the $2^2 =4$ logic cases in your head.
+For the 2 inputs, you can probably verify the \(2^2 =4\) logic cases in your head.
 Here, we'll use that simplicity to prove to ourselves that the testbenching method we're using is actually valid.
 
 The half-adder can be set up in Verilog as follows
