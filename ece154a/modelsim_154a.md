@@ -1,5 +1,3 @@
-{% include lib/mathjax.html %}
-
 # ModelSim: First Steps for students in ECE154A
 
 This note is a mix of writing up my 24 Sep section, and answering questions that have floated to the surface since then.
@@ -177,3 +175,5 @@ Since ModelSim likes to dump transient files from its compilation and simulation
 ## Good luck! See you next time!
 If you've been struggling with Lab 1, hopefully this note hits your specific problem.
 Good luck!
+
+{% include lib/mathjax.html %}
