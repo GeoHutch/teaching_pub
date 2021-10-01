@@ -1,3 +1,5 @@
+{% include lib/mathjax.html %}
+
 # ModelSim: First Steps for students in ECE154A
 
 This note is a mix of writing up my 24 Sep section, and answering questions that have floated to the surface since then.
