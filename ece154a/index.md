@@ -8,3 +8,7 @@
 * Week 04: [Slides](dis/04/main.pdf) ([Annotated](dis/04/main_annotated.pdf))
 * Week 05: [Slides](dis/05/main.pdf) ([Annotated](dis/05/main_annotated.pdf))
 
+### Other good resources
+* [Recursion in MIPS](https://eecs.wsu.edu/~ewang/cs260/ln/2.3_Recursion_factorial_fibonacci.pdf)
+* Getting ModelSim set up ([guide](modelsim_154a) up to date in 2021)
+
