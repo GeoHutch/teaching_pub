@@ -9,5 +9,6 @@
 * ["Compact" Verilog reference](https://ee.sharif.edu/~logic_circuits_t/readings/The%20Verilog%20Golden%20Reference%20Guide%20by%20DOULOS.pdf)
 * [Verilog 2005 Language Spec](http://staff.ustc.edu.cn/~songch/download/IEEE.1364-2005.pdf) (in depth, useful for answering questions about really weird behavior)
 * [What's actually contained in `always @(*)`?](https://inst.eecs.berkeley.edu/~cs150/Documents/Always.pdf)
+* [Verilog for Delay Modeling](static//home/hutch/teaching/ece154b/static/CummingsHDLCON1999_BehavioralDelays_Rev1_1.pdf)
 
 
